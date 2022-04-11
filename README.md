@@ -1,14 +1,12 @@
 ![background](./mountain.jpg)
 
-😎I'm currently preparing for Unified National Graduate Entrance Examination
+I'm not a coder,but a tailer
 
-🤗Language:Java & C++ & Javascript & Python
+Be patient,still try to change something
 
-😏WeChat: ooffiioo
+WeChat: ooffiioo
 
-📩Email:ooffiioo@qq.com
-
-🤩Student of UJS
+Email:chengkai.zhang@foxmail.com
 
 
 ![zcker's GitHub stats](https://github-readme-stats.vercel.app/api?username=zcker&show_icons=true&theme=flag-india&show_icons=true)
